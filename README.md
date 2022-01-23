@@ -1,5 +1,5 @@
 # Hangman-game
-Hangman game program in Python
+Hangman game program in Python, written in November after only 2 months of Python learning. Yes! I am quite proud of my achievement 😎
 
 During a dojo, our trainer proposed us to program a hangman game. Some functions were already written by him (see corresponding files) and we were 5 to change every 2 mn to write code and try to build a program in an hour without the possibility to speak to each other. 
 
