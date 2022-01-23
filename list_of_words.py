@@ -1,0 +1,10 @@
+words_list = ["absinthe", "aiguille", "alligator", "ambition", "antidote", "aspirine", "aventure", "baignoire", "boulanger", "bouteille", "caractere", "ceinture", 
+"chaumiere", "cheminee", "chocolat", "crocodile", "cyclisme", "dentifrice", "document", "dictionnaire", "diplodocus", "emballage", "entonnoir", "entrevue", "fabuleux", 
+"familier", "fantastique", "feuillage", "frottement", "geographie", "geometrie", "grandeur", "grandiloquence",  "habitacle", "habitude", "hexagone", "histoire", 
+"humanite", "identite", "immeuble", "information", "injustice", "jacinthe", "journaliste", "jumelage", "kakemono", "kaleidoscope", "karateka", "keratine", "laboratoire", 
+"longtemps", "louveteau", "magnetisme", "manoeuvre", "mathematique", "menuisier", "meringue", "montagne", "musicien", "naturisme", "nouveaute", "nutriment", 
+"onomatopee", "ordinaire", "orthopedie", "pantalon", "parapluie", "pasteque", "patinage", "patisserie", "personnel", "pistache", "pratique", "programmation", 
+"promenade", "quadriceps", "quantile", "quotidien", "radiateur", "rectangle", "reverence", "ruisseau", "ruissellement", "scientifique", "sentiment", "serviette", 
+"shampoing", "signalisation", "situation", "solidarite", "surprise", "symphonie", "technologie", "temoignage", "tentacule", "testament", "trottinette", "trottoir", 
+"ululement", "uniforme", "utilisation", "vagabond", "ventriloque", "vigilance", "vouvoiement", "waterpolo", "waterproof", "wisigothe", "xenophobie", "xylophone", 
+"xylophoniste", "yaourtiere", "yorkshire", "yougoslave", "zenitude", "zetetique", "zoologue", "zygomatique"]
